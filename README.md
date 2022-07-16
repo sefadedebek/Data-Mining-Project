@@ -1,4 +1,5 @@
-# Data Mining Project
+# Data Mining Project: Estimation and Comperative Performance Analysis of Three Classification Algorithms on Stock and Cryptocurrency Data
+
 In this project, classification algorithms such as Random Forest, KNN and Logistic Regression are applied.
 
 
